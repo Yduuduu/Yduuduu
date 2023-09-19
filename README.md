@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1895ff&fontAlign=53&fontAlignY=42&fontColor=ffffff&animation=fadeIn&height=250&section=header&text=Welcome👩🏻‍💻&desc=YunJu%20Github) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=1895ff&fontAlign=53&fontAlignY=42&fontColor=ffffff&animation=fadeIn&height=250&section=header&text=Welcome👩&desc=YunJu%20Github) 
 
 ## Skill
 #### WEB
