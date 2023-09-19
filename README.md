@@ -6,4 +6,4 @@
 <img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white"/> <img alt="recoil" src="https://img.shields.io/badge/recoil-3578E5.svg?style=for-the-badge&logo=recoil&logoColor=white"/>
 <h3>✨ Language ✨</h3></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yduuduu&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=5db5ff&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yduuduu&layout=compact&custom_title=My&nbsp;Language&nbsp;&title_color=black&text_color=black)](https://github.com/anuraghazra/github-readme-stats)
